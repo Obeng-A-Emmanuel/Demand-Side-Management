@@ -1,3 +1,3 @@
-DEMAND SIDE MANAGEMENT
+#DEMAND SIDE MANAGEMENT
 
-Using meta-hueristic algorithms to optimally schedule home appliances
+Using meta-heuristic algorithms to optimally schedule home appliances
